@@ -35,3 +35,6 @@ CALCULATE(
 
 Placement Rate (%) =
 DIVIDE([Placed Students], DISTINCTCOUNT(CollegePlacement[College_ID]), 0)
+
+<img width="1299" height="741" alt="image" src="https://github.com/user-attachments/assets/0d183349-42be-4590-8845-a3abf572a6a0" />
+
