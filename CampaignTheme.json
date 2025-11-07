@@ -1,0 +1,53 @@
+{
+  "name": "Campaign Dashboard Theme",
+  "dataColors": [
+    "#0078D7",
+    "#28A745",
+    "#DC3545",
+    "#A6A6A6",
+    "#17A2B8"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#0078D7",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": { "solid": { "color": "#333333" } },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#333333" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "label": [
+          {
+            "color": { "solid": { "color": "#0078D7" } },
+            "fontSize": 14
+          }
+        ]
+      }
+    },
+    "funnel": {
+      "*": {
+        "dataColors": [
+          "#003f6b",
+          "#005a9e",
+          "#0078D7",
+          "#5aa9e6",
+          "#a7d0f0"
+        ]
+      }
+    }
+  }
+}
